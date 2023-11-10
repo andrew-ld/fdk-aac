@@ -337,7 +337,7 @@ void lppTransposer(
 #ifdef __ANDROID__
   else {
     // Safetynet logging
-    android_errorWriteLog(0x534e4554, "112160868");
+    // android_errorWriteLog(0x534e4554, "112160868");
   }
 #endif
 
@@ -933,7 +933,7 @@ void lppTransposerHBE(
 #ifdef __ANDROID__
   else {
     // Safetynet logging
-    android_errorWriteLog(0x534e4554, "112160868");
+    // android_errorWriteLog(0x534e4554, "112160868");
   }
 #endif
 
